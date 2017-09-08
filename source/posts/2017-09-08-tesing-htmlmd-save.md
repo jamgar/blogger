@@ -6,10 +6,11 @@ image: /img/uploads/profile_pic_.jpg
 ---
 this is all good
 
-…ruby
+```ruby
 
 def test
 
 end
+```
 
-\`\`\`
+
